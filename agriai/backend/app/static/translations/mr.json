@@ -1,0 +1,18 @@
+{
+    "greeting": "नमस्कार",
+    "farewell": "आभार",
+    "thank_you": "धन्यवाद",
+    "welcome": "स्वागत आहे",
+    "yes": "होय",
+    "no": "नाही",
+    "please": "कृपया",
+    "sorry": "क्षमस्व",
+    "help": "साहाय्य",
+    "language": "भाषा",
+    "translate": "अनुवादित करा",
+    "error": "चूक",
+    "success": "यश",
+    "loading": "लोड होत आहे",
+    "submit": "सादर करा",
+    "cancel": "रद्द करा"
+}

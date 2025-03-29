@@ -1,0 +1,19 @@
+{
+    "greeting": "ନମସ୍କାର",
+    "farewell": "ବିଦାୟ",
+    "thank_you": "ଧନ୍ୟବାଦ",
+    "yes": "ହଁ",
+    "no": "ନା",
+    "please": "ଦୟାକରି",
+    "welcome": "ସ୍ବାଗତ",
+    "good_morning": "ଶୁଭ ସକାଳ",
+    "good_night": "ଶୁଭ ରାତ୍ରି",
+    "how_are_you": "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+    "what_is_your_name": "ଆପଣଙ୍କର ନାମ କଣ?",
+    "my_name_is": "ମୋ ନାମ",
+    "help": "ସହାୟତା",
+    "language": "ଭାଷା",
+    "translate": "ଅନୁବାଦ",
+    "error": "ତ୍ରୁଟି",
+    "success": "ସଫଳତା"
+}
